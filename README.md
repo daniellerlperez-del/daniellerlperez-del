@@ -43,8 +43,8 @@ I can build demos but I prefer to build systems that work in production, in regu
 
 ### What I'm looking for
 
-A senior, principal, staff product role or lead AI products, or Senior Principal seat where the platform is the product, not the slide deck. Where regulated environments and enterprise complexity are the challenge, not the excuse. Where governance is the work, not the afterthought.
+A senior, principal, staff product role or AI leading product seat where the platform is the product, not the slide deck. Where regulated environments and enterprise complexity are the challenge, not the excuse. Where governance is the work, not the afterthought.
 
-I have 17 years of operator instincts, platform thinking, and enterprise proof. If you're building AI infrastructure for healthcare, financial services, HCM, WFM or any high stakes workflow environment, that's the seat I'm looking for, and the fastest way to find out if I'm the right person is to reach out directly.
+I have 17 years of operator instincts, platform thinking, and enterprise proof. If you're building AI infrastructure for healthcare, financial services, HCM, WFM, big tech or any high stakes workflow environment, that's the seat I'm looking for, and the fastest way to find out if I'm the right person is to reach out directly.
 
 **daniellerlperez@gmail.com** · [LinkedIn](https://www.linkedin.com/in/daniellelombardperez/) · [GitHub](https://github.com/daniellerlperez-del) · [Perez Creative Labs](https://perezcreativelabs.com)
