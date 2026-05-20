@@ -25,8 +25,8 @@ That is not a career path. That is a career lifecycle. And it's the whole reason
 
 ### Shipped live, not a slide
 
-- **Cold Open** — a warm path job search tool for senior PMs. Three modes: LinkedIn URL builder, people and contacts search by company, and a Deep Research mode that calls Claude Sonnet to generate a full dossier and a first DM with your career context as the moat. [Code](https://github.com/daniellerlperez-del/cold-open)
-- **Frontline Assist / Bryte Assist** — governed, multi-agent AI platform for regulated HCM & WFM environments. Built 0→1 inside UKG, a 75,000-person enterprise SaaS company. 20+ use cases in production in year one. The governance architecture became the standard.
+- **Cold Open**: a warm path job search tool for senior PMs. Three modes: LinkedIn URL builder, people and contacts search by company, and a Deep Research mode that calls Claude Sonnet to generate a full dossier and a first DM with your career context as the moat. [Code](https://github.com/daniellerlperez-del/cold-open)
+- **Frontline Assist / Bryte Assist**: governed, multi-agent AI platform for regulated HCM & WFM environments. Built 0→1 inside UKG, a 75,000-person enterprise SaaS company. 20+ use cases in production in year one. The governance architecture became the standard.
 - **WFM Product Academy**, selected as pilot leader for the Melissa Perri cohort; built and ran the enablement program that embedded PM craft and AI literacy across the product org. Not a curriculum that sat in a wiki, a program people actually showed up for.
 - **Perez Creative Labs LLC,** my independent practice for AI product strategy, advisory work, and side builds. Active entity, real EIN, real domain. The lab where I experiment without enterprise constraints.
 
@@ -44,7 +44,7 @@ I can build demos but I prefer to build systems that work in production, in regu
 
 ### What I'm looking for
 
-A Senior, Principal, Staff product role or Head of AI Products seat where the platform is the product, not the slide deck. Where regulated environments and enterprise complexity are the challenge, not the excuse. Where governance is the work, not the afterthought.
+A senior, principal, staff product role or lead AI products, or Senior Principal seat where the platform is the product, not the slide deck. Where regulated environments and enterprise complexity are the challenge, not the excuse. Where governance is the work, not the afterthought.
 
 I have 17 years of operator instincts, platform thinking, and enterprise proof. If you're building AI infrastructure for healthcare, financial services, HCM, WFM or any high stakes workflow environment, that's the seat I'm looking for, and the fastest way to find out if I'm the right person is to reach out directly.
 
