@@ -24,7 +24,7 @@ That is not a career path. That is a career lifecycle. And it's the whole reason
 
 ### Shipped live, not a slide
 
-- **Frontline Assist / Bryte Assist** — governed, multi-agent AI platform for regulated HCM environments. Built 0→1 inside UKG, a 75,000-person enterprise SaaS company. 20+ use cases in production in year one. The governance architecture became the standard.
+- **Frontline Assist / Bryte Assist** — governed, multi-agent AI platform for regulated HCM & WFM environments. Built 0→1 inside UKG, a 75,000-person enterprise SaaS company. 20+ use cases in production in year one. The governance architecture became the standard.
 - **WFM Product Academy**, selected as pilot leader for the Melissa Perri cohort; built and ran the enablement program that embedded PM craft and AI literacy across the product org. Not a curriculum that sat in a wiki, a program people actually showed up for.
 - **Perez Creative Labs LLC** my independent practice for AI product strategy, advisory work, and side builds. Active entity, real EIN, real domain. The lab where I experiment without enterprise constraints.
 
@@ -36,7 +36,7 @@ The most common failure mode in enterprise AI is the feature first build: solve 
 
 I build around that problem. The platforms I've built were designed to be extensible before extensibility was the ask, shared orchestration, shared observability, a product ecosystem with shared governance controls that compliance teams could actually sign off on. That is the platform before product orientation I bring to every seat.
 
-I don't build demos. I build systems that work in production in regulated environments where getting it wrong has real consequences. That constraint is what makes the architecture worth having.
+I can build demos but I prefer to build systems that work in production, in regulated environments, where getting it wrong has real consequences. That constraint is what makes the architecture worth having.
 
 ---
 
