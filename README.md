@@ -13,18 +13,19 @@ That is not a career path. That is a career lifecycle. And it's the whole reason
 ### The proof, before the prose
 
 - **20 enterprise AI use cases** shipped into production within the first 12 months of Frontline Assist Conversational AI product at UKG, governed multi-agent systems, conversational AI, human in the loop guardrails, compliance grade observability. Not a lab. Not a pilot. Running at scale.
-- **$15M+ ARR influenced** through phased commercialization of AI platform capabilities and Multiple Assignments and Employments across healthcare, retail and higher education verticals.
+- **$15M+ ARR influenced** through Multiple Assignments and Employments, a limited availability initiative I commercialized by partnering directly with enterprise healthcare, higher education, and retail customers to get the right workflow fit for workers holding roles across multiple employers, departments, and positions in the same enterprise. I had lived that complexity. The platform I built resolved it at scale.
 - **4 first-place innovation awards** in 2024, including the first Gen AI copilot shipped in the Gig suite (SmartShift Copilot), demoed live to 5,000+ customers at UKG Aspire. Built in partnership with Microsoft, Google, and MongoDB.
 - **3rd place, Microsoft Agents of Innovation 48-hour hackathon**, earned a permanent spot on UKG's Agents of Innovation roster.
 - **Led multiple beta and limited availability releases** for Frontline Assist capabilities, defining the enterprise AI release methodology as each wave shipped. No playbook existed. I built one: customer readiness criteria, governance checkpoints, rollback protocols, and support escalation paths for AI outputs in regulated environments. Every release made the next one faster and safer.
 - **Principal PM promotion** for building the enterprise AI capability platforms from scratch, no playbook, nothing handed to the team, no one who had done it before at the company.
 - **WFM Product Academy leader** selected for the Melissa Perri cohort to scale discovery led product thinking and AI literacy across the product organization.
-- **17 years of operator level domain depth.** $2.8B in assets managed at BNY Mellon during the 2008 crisis. Personal banker at Bank of America. Sales management at Kay Jewelers (32.8% over plan on Black Friday). Business systems analyst at Liberty Mutual (83% faster time-to-market on partner programs). I have worked every layer of the systems I now build for. That's not a resume line, it's why the architecture and products I build actually work in the field.
+- **17 years of operator level domain depth.** $2.8B in assets managed at BNY Mellon during the 2008 crisis. Personal banker at Bank of America. Store manager at Kay Jewelers, Store #1233 (32.8% over plan on Black Friday). Business systems analyst at Liberty Mutual (83% faster time-to-market on partner programs). I have worked every layer of the systems I now build for. That's not a resume line, it's why the architecture and products I build actually work in the field.
 
 ---
 
 ### Shipped live, not a slide
 
+- **Cold Open** — a warm path job search tool for senior PMs. Three modes: LinkedIn URL builder, people and contacts search by company, and a Deep Research mode that calls Claude Sonnet to generate a full dossier and a first DM with your career context as the moat. [Code](https://github.com/daniellerlperez-del/cold-open)
 - **Frontline Assist / Bryte Assist** — governed, multi-agent AI platform for regulated HCM & WFM environments. Built 0→1 inside UKG, a 75,000-person enterprise SaaS company. 20+ use cases in production in year one. The governance architecture became the standard.
 - **WFM Product Academy**, selected as pilot leader for the Melissa Perri cohort; built and ran the enablement program that embedded PM craft and AI literacy across the product org. Not a curriculum that sat in a wiki, a program people actually showed up for.
 - **Perez Creative Labs LLC,** my independent practice for AI product strategy, advisory work, and side builds. Active entity, real EIN, real domain. The lab where I experiment without enterprise constraints.
@@ -43,7 +44,7 @@ I can build demos but I prefer to build systems that work in production, in regu
 
 ### What I'm looking for
 
-A Senior, Principal, Staff product role or a lead AI Products seat where the platform is the product, not the slide deck. Where regulated environments and enterprise complexity are the challenge, not the excuse. Where governance is the work, not the afterthought.
+A Senior, Principal, Staff product role or Head of AI Products seat where the platform is the product, not the slide deck. Where regulated environments and enterprise complexity are the challenge, not the excuse. Where governance is the work, not the afterthought.
 
 I have 17 years of operator instincts, platform thinking, and enterprise proof. If you're building AI infrastructure for healthcare, financial services, HCM, WFM or any high stakes workflow environment, that's the seat I'm looking for, and the fastest way to find out if I'm the right person is to reach out directly.
 
