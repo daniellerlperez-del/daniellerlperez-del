@@ -25,7 +25,6 @@ That is not a career path. That is a career lifecycle. And it's the whole reason
 
 ### Shipped live, not a slide
 
-- **Cold Open**: a warm path job search tool for senior PMs. Three modes: LinkedIn URL builder, people and contacts search by company, and a Deep Research mode that calls Claude Sonnet to generate a full dossier and a first DM with your career context as the moat. [Code](https://github.com/daniellerlperez-del/cold-open)
 - **Frontline Assist / Bryte Assist**: governed, multi-agent AI platform for regulated HCM & WFM environments. Built 0→1 inside UKG, a 75,000-person enterprise SaaS company. 20+ use cases in production in year one. The governance architecture became the standard.
 - **WFM Product Academy**, selected as pilot leader for the Melissa Perri cohort; built and ran the enablement program that embedded PM craft and AI literacy across the product org. Not a curriculum that sat in a wiki, a program people actually showed up for.
 - **Perez Creative Labs LLC,** my independent practice for AI product strategy, advisory work, and side builds. Active entity, real EIN, real domain. The lab where I experiment without enterprise constraints.
