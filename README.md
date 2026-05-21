@@ -19,7 +19,7 @@ That is not a career path. That is a career lifecycle. And it's the whole reason
 - **Led multiple beta and limited availability releases** for Frontline Assist capabilities, defining the enterprise AI release methodology as each wave shipped. No playbook existed. I built one: customer readiness criteria, governance checkpoints, rollback protocols, and support escalation paths for AI outputs in regulated environments. Every release made the next one faster and safer.
 - **Principal PM promotion** for building enterprise platforms from scratch, no playbook, nothing handed to the team, no one who had done it before at the company.
 - **WFM Product Academy leader** selected for the Melissa Perri cohort to scale discovery led product thinking and AI literacy across the product organization.
-- **17 years of operator level domain depth.** $2.8B in assets managed at BNY Mellon during the 2008 crisis. Personal banker at Bank of America. Store manager at Kay Jewelers, Store #1233 (32.8% over plan on Black Friday). Business systems analyst at Liberty Mutual (83% faster time-to-market on partner programs). I have worked every layer of the systems I now build for. That's not a resume line, it's why the architecture and products I build actually work in the field.
+- **17 years of operator level domain depth.** $2.8B in assets managed at BNY Mellon during the 2008 crisis. Personal banker at Bank of America. Sales management at Kay Jewelers (32.8% over plan on Black Friday). Business systems analyst at Liberty Mutual (83% faster time-to-market on partner programs). I have worked every layer of the systems I now build for. That's not a resume line, it's why the architecture and products I build actually work in the field.
 
 ---
 
@@ -35,7 +35,7 @@ That is not a career path. That is a career lifecycle. And it's the whole reason
 
 ### I build platforms, not features
 
-The most common failure mode in enterprise AI is the feature first build: solve one use case, ship it, move on. The second use case gets the same treatment and creates a second silo. By use case five you have five disconnected systems, five data models, and five governance gaps and a platform that's ungovernable.
+The most common failure mode in enterprise software is the feature first build: solve one use case, ship it, move on. The second use case gets the same treatment and creates a second silo. By use case five you have five disconnected systems, five data models, and five governance gaps and a platform that's ungovernable.
 
 I build around that problem. The platforms I've built were designed to be extensible before extensibility was the ask, shared orchestration, shared observability, a product ecosystem with shared governance controls that compliance teams could actually sign off on. That is the platform before product orientation I bring to every seat.
 
