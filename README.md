@@ -33,7 +33,7 @@ That is not a career path. That is a career lifecycle and it's the whole reason 
 
 ### I build platforms, not features
 
-The most common failure mode in enterprise AI is the feature first build: solve one use case, ship it, move on. The second use case gets the same treatment and creates a second silo. By use case five you have five disconnected systems, five data models, and five governance gaps and a platform that's ungovernable.
+The most common failure mode in enterprise software and AI is the feature first build: solve one use case, ship it, move on. The second use case gets the same treatment and creates a second silo. By use case five you have five disconnected systems, five data models, and five governance gaps and a platform that's ungovernable.
 
 I build around that problem. The platforms I've built were designed to be extensible before extensibility was the ask, shared orchestration, shared observability, a product ecosystem with shared governance controls that compliance teams could actually sign off on. That is the platform before product orientation I bring to every seat.
 
